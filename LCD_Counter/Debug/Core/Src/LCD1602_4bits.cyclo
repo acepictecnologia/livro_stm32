@@ -1,0 +1,7 @@
+../Core/Src/LCD1602_4bits.c:27:6:send_to_lcd	1
+../Core/Src/LCD1602_4bits.c:45:6:lcd_send_cmd	1
+../Core/Src/LCD1602_4bits.c:58:6:lcd_send_data	1
+../Core/Src/LCD1602_4bits.c:71:6:lcd_clear	1
+../Core/Src/LCD1602_4bits.c:77:6:lcd_put_cur	3
+../Core/Src/LCD1602_4bits.c:93:6:lcd_init	1
+../Core/Src/LCD1602_4bits.c:124:6:lcd_send_string	2
